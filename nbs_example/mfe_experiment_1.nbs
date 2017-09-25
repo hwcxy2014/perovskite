@@ -1,0 +1,4 @@
+#!/bin/sh
+# execute evaluate.py with the following user inputs
+./evaluate.py ${1} ${2} ${3} ${4} -mu0 ${5} -mu1 ${5} -f 2
+

@@ -1,0 +1,7 @@
+05/09/2016 Bayes-Optimal Effort Allocation in Crowdsourcing: Bounds and Index Policies
+AISTATS, Cadiz, Spain 
+(Poster Presentation)
+11/13/2016 Asymptotic Optimality In Finite Horizon Multi-armed Bandits 
+With Multiple Pulls Per Period
+Nashville, TN, United States
+(talk)

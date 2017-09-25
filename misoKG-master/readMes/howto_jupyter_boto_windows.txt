@@ -1,0 +1,19 @@
+### How to set up startup folder
+
+In Anaconda prompt:
+jupyter notebook --generate-config
+
+This generates ~/.jupyter/jupyter_notebook_config.py file with some helpfully commented possible options. To set the default directory add:
+## The directory to use for notebooks and kernels.
+c.NotebookApp.notebook_dir = u'C:\\Users\\mup3\\Desktop'
+
+
+### How to set up boto to access S3 in Windows:
+Create a file called "mycred.txt" and put it into C:\temp This file contains two lines:
+
+AWSAccessKeyId=<your access id>
+AWSSecretKey=<your secret key>
+
+Define the environment variable AWS_CREDENTIAL_FILE to point at C:\temp\mycred.txt
+
+NOTE: The approach described in the boto tutorial does NOT work.

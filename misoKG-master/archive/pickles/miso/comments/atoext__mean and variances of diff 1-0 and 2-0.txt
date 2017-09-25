@@ -1,0 +1,11 @@
+>>> pts, vals = load_data_from_a_min_problem("../pickles/miso","atoext_IS_1_2_200_points_eachdiffToIS0")
+>>> numpy.var(vals[0])
+185.66155760117911
+>>> numpy.var(vals[1])
+0.76152455146103382
+>>> numpy.mean(vals[0])
+7.3902060944499999
+>>> numpy.var(vals[1])
+0.76152455146103382
+>>> numpy.mean(vals[1])
+-0.046135478749999688

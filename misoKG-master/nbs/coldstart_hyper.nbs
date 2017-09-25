@@ -1,0 +1,6 @@
+source /fs/home/jw865/.zshrc
+
+benchmark_name=${1}
+#/fs/home/jw865/.virtualenvs/miso/bin/python /fs/home/jw865/remote_deployment/multifidelity/train_hyper_ego_or_kg.py ${benchmark_name}
+#/fs/home/jw865/.virtualenvs/miso/bin/python /fs/home/jw865/remote_deployment/multifidelity/train_hyper_mkg.py ${benchmark_name}
+/fs/home/jw865/.virtualenvs/miso/bin/python /fs/home/jw865/remote_deployment/multifidelity/train_hyper_pes.py ${benchmark_name}

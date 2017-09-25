@@ -1,0 +1,18 @@
+NACA 0012
+PLOP
+G
+
+OPER
+mach 0.31238 
+v 1e5
+a 0.0
+P
+
+
+INIT
+A 0.00315 
+PWRT 1
+cfd_files/XFOIL_results.txt
+Y
+
+QUIT

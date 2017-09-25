@@ -1,0 +1,5 @@
+source /fs/home/jw865/.zshrc
+
+func_name=${1}
+repl_no=${2}
+/fs/home/jw865/.virtualenvs/miso/bin/python /fs/home/jw865/remote_deployment/multifidelity/coldstart_gen_benchmark_data.py ${func_name} ${repl_no}

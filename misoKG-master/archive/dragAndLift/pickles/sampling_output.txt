@@ -1,0 +1,26 @@
+filename=dragAndLift_4_IS_5_points_each_id_1
+drag = 15.03, lift = 0.4895
+drag = 28.27, lift = 0.8109
+drag = 16.64, lift = 0.2597
+drag = 18.43, lift = 0.6168
+drag = 19.35, lift = 0.6754
+SU2 running ... be patient
+   mach : 0.102120204867
+   aoa  : 5.47648338403
+drag = 9.2260991, lift = 0.6234183072
+SU2 running ... be patient
+   mach : 0.454655314331
+   aoa  : 2.81443758984
+drag = 8.8738459, lift = 0.3574253777
+SU2 running ... be patient
+   mach : 0.339364198746
+   aoa  : 1.18096184349
+drag = 8.461531, lift = 0.1418424223
+SU2 running ... be patient
+   mach : 0.391276399875
+   aoa  : 4.21250944403
+drag = 9.292036, lift = 0.5147560332
+SU2 running ... be patient
+   mach : 0.223137448593
+   aoa  : 7.87757229846
+drag = 11.5143097, lift = 0.8944751371

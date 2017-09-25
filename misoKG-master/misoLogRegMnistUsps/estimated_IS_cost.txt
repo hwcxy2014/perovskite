@@ -1,0 +1,14 @@
+IS 0 has mean variance 0.000000. The cost have mean 48.590731 sec and std dev 18.974102
+IS 1 has mean variance 0.000000. The cost have mean 9.933899 sec and std dev 3.806641
+
+IS 0 has mean variance 0.000000. The cost have mean 43.041581 sec and std dev 18.945573
+IS 1 has mean variance 0.000000. The cost have mean 11.544768 sec and std dev 6.420888
+
+IS 0 has mean variance 0.000000. The cost have mean 35.511076 sec and std dev 14.871227
+IS 1 has mean variance 0.000000. The cost have mean 11.158946 sec and std dev 5.736772
+
+IS 0 has mean variance 0.000000. The cost have mean 41.726650 sec and std dev 18.728890
+IS 1 has mean variance 0.000000. The cost have mean 9.166702 sec and std dev 5.862789
+
+IS 0 has mean variance 0.000000. The cost have mean 49.603014 sec and std dev 16.357735
+IS 1 has mean variance 0.000000. The cost have mean 10.278394 sec and std dev 5.391438

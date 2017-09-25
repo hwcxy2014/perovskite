@@ -1,0 +1,8 @@
+source /fs/home/jw865/.zshrc
+
+benchmark_name=${1}
+repl_no=${2}
+func_idx=${3}
+#/fs/home/jw865/.virtualenvs/miso/bin/python /fs/home/jw865/remote_deployment/multifidelity/run_ego.py ${benchmark_name} ${repl_no} ${func_idx}
+/fs/home/jw865/.virtualenvs/miso/bin/python /fs/home/jw865/remote_deployment/multifidelity/run_mkg.py ${benchmark_name} ${repl_no} ${func_idx}
+#/fs/home/jw865/.virtualenvs/miso/bin/python /fs/home/jw865/remote_deployment/multifidelity/run_pes.py ${benchmark_name} ${repl_no} ${func_idx}
